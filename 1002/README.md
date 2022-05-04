@@ -2,7 +2,7 @@
 
 A fórmula para calcular a área de uma circunferência é: <strong>area = π . raio2.</strong> Considerando para este problema que <strong>π = 3.14159:</strong>
 
-- Efetue o cálculo da área, elevando o valor de <strong>raio ao quadrado e multiplicando por <strong>π.</strong>
+- Efetue o cálculo da área, elevando o valor de <strong>raio</strong> ao quadrado e multiplicando por <strong>π.</strong>
 
 ### Entrada
 A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável <strong>raio.</strong>

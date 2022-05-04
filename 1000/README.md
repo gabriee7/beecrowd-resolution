@@ -1,4 +1,4 @@
-# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1001"> Bee 1001</a> 🐝
+# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1000"> Bee 1000</a> 🐝
 
 O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
 

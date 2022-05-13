@@ -1,4 +1,4 @@
-# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1003"> Bee 1003</a> 🐝
+# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1004"> Bee 1004</a> 🐝
 
 Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável <strong>PROD</strong>. A seguir mostre a variável <strong>PROD</strong> com mensagem correspondente.   
 

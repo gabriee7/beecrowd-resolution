@@ -1,21 +1,18 @@
-# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1016"> Bee 1016</a> 🐝
+# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1017"> Bee 1017</a> 🐝
 
-Dois carros (X e Y) partem em uma mesma direção. O carro X sai com velocidade constante de 60 Km/h e o carro Y sai com velocidade constante de 90 Km/h.
+Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, ele gostaria que você o auxiliasse através de um simples programa. Para efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade média durante a mesma (em km/h). Assim, pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. Mostre o valor com 3 casas decimais após o ponto.
 
-Em uma hora (60 minutos) o carro Y consegue se distanciar 30 quilômetros do carro X, ou seja, consegue se afastar um quilômetro a cada 2 minutos.
-
-Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o carro Y tomar essa distância do outro carro.
 
 ### Entrada
-O arquivo de entrada contém um número inteiro.
+O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viagem (em horas) e o segundo é a velocidade média durante a mesma (em km/h).
 
 
 ### Saída
-Imprima o tempo necessário seguido da mensagem "minutos".
+Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 
 
 | Exemplos de Entrada | Exemplos de Saída|
 |---| ---|
-| 30 | 60 minutos |
-| 110 | 220 minutos|
-| 7 | 14 minutos|
+| 10<br>85 | 70.833 |
+| 2<br>92 | 15.333|
+| 22<br>67 | 122.833|

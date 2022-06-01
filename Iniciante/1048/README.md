@@ -1,4 +1,4 @@
-# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/10478"> Bee 1048</a> 🐝
+# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1048"> Bee 1048</a> 🐝
 
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
 <p text-align='center'>

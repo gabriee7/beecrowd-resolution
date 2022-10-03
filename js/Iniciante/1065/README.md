@@ -1,17 +1,18 @@
-# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1064"> Bee 1064</a> 🐝
+# <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1065"> Bee 1065</a> 🐝
 
-Leia 6 valores. Em seguida, mostre quantos destes valores digitados foram positivos. Na próxima linha, deve-se mostrar a média de todos os valores positivos digitados, com um dígito após o ponto decimal.
+Faça um programa que leia 5 valores inteiros. Conte quantos destes valores digitados são pares e mostre esta informação.
 
 ### Entrada
-A entrada contém 6 números que podem ser valores inteiros ou de ponto flutuante. Pelo menos um destes números será positivo.
+O arquivo de entrada contém 5 valores inteiros quaisquer.
+
 
 ### Saída
-O primeiro valor de saída é a quantidade de valores positivos. A próxima linha deve mostrar a média dos valores positivos digitados.
+Imprima a mensagem conforme o exemplo fornecido, indicando a quantidade de valores pares lidos.
 
 
 | Exemplos de Entrada | Exemplos de Saída|
 |---| ---|
-|7<br>-5<br>6<br>-3.4<br>4.6<br>12 | 4 valores positivos <br> 7.4 |
+|7<br>-5<br>6<br>-4<br>12 | 3 valores pares |
 
 
 

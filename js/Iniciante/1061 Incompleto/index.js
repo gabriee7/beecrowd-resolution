@@ -1,18 +1,32 @@
-// var input = require('fs').readFileSync('index', 'utf8');
-// var line = input.split('\n')
+var input = require('fs').readFileSync('index', 'utf8');
+var line = input.split('\n')
 
-// var dayInit = line[0].split(' ')
-// var init = line[1].split(':')
-// var hourInit = init[0]
-// var minuteInit = init[1]
-// var secondInit = init[2]
-// // console.log(dayInit[1] + '\n' + hourInit + '\n' + minuteInit + '\n' + secondInit + '\n'  )
+var dayInit = line[0].split(' ')
+var init = line[1].split(':')
+var hourInit = init[0]
+var minuteInit = init[1]
+var secondInit = init[2]
 
-// var dayFinal = line[2].split(' ')
-// var final = line[3].split(':')
-// var hourFinal = final[0]
-// var minuteFinal = final[1]
-// var secondFinal = final[2]
+var dayFinal = line[2].split(' ')
+var final = line[3].split(':')
+var hourFinal = final[0]
+var minuteFinal = final[1]
+var secondFinal = final[2]
+
+var i, count, secondsAccumulator
+
+count = dayFinal
+
+while (count != dayInit) {
+    
+}
+
+
+
+
+
+
+
 
 // var count = []
 
@@ -46,19 +60,20 @@
 //     console.log(arrayN[i][i])
 // }
 
-var inputYear = 2000
-var mul4, mul100, mul400 = 0
+// var inputYear = 2000
+// var mul4, mul100, mul400 = 0
 
-if(inputYear%4 == 0){
-    mul4 = 1
-}if(inputYear%100 == 0){
-    mul100 = 1
-}if(inputYear%400 == 0){
-    mul400 = 1
-}
+// if(inputYear%4 == 0){
+//     mul4 = 1
+// }if(inputYear%100 == 0){
+//     mul100 = 1
+// }if(inputYear%400 == 0){
+//     mul400 = 1
+// }
 
-if(mul100 == 1 || mul4 == 0 || mul400 == 0){
-    console.log('Não é ano bissexto')
-}else{
-    console.log('É ano bissexto')
-}
+// if(mul100 == 1 || mul4 == 0 || mul400 == 0){
+//     console.log('Não é ano bissexto')
+// }else{
+//     console.log('É ano bissexto')
+// }
+
